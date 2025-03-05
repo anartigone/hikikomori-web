@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "> 开始阅读：【[在线版](https://anartigone.github.io/wm-web/)】【[下载版](https://github.com/anartigone/wm-web/releases/)】",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^6.0.2"
+  }
+}
